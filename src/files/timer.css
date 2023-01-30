@@ -1,0 +1,39 @@
+.h1-timer {
+    position: center;
+    border: 2px solid coral;
+    border-radius: 3px ;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30% ;
+    text-align: center;
+}
+.timer_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.restart {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px;
+}
+.stop {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
